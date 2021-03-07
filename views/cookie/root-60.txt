@@ -1,0 +1,1 @@
+com.atominvention.rootchecker,com.ng_labs.rootchecker,org.azasoft.free.swapper,com.flaki.systemcleaner,net.shajul.usbotg,com.advanced.rootchecker,za.co.henry.hsu.adbwirelessbyhenry,moe.haruue.wadb,kha.prog.root,com.makeinfo.androididchanger,com.sea.superroot,eu.thedarken.rootvalidator,droidmate.appopsinstaller,com.chromium.fontinstaller,wkv.android.evait.com.wifikeyview,

@@ -1,0 +1,1 @@
+com.smallyuan.basetrans,com.rufus.notificationplayground,com.felix.wecha,kik.android,org.thunderdog.challegram,com.tiny.fakeapp,com.facebook.katana,com.google.android.youtube,com.maivq.nguyendh,com.instagram.android,com.sohu.inputmethod.sogou,com.clipinapps.emojipopularstickers,com.qianbaotong.qianbaotong,com.manridy.iwear2,com.abstractwombat.logwidget,

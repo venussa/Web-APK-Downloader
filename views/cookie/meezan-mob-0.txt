@@ -1,0 +1,1 @@
+com.vat.vataccounting.almeezan,com.meezanco.app,com.javedahmadghamidi.ghamidi,pk.gov.nadra.nrclocator.android,tracemobilenumberdirectory.yasir.m_tech.tracemobilenumber,dreamweb.mtech.mobilenumbertrackerandlocatorforpakistanis,com.inov8.fonepayconsumer,com.ufoneselfcare,com.global.foodpanda.android,com.samsung.ipolis,

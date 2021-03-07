@@ -1,0 +1,1 @@
+monopoly.business.empire.trade,com.scientificgames.monopolyslots,air.bg.lan.Monopoli,com.sharkparty.monopolybingo,com.cartamundidigital.monopoly,com.sharkparty.monopolybingo54,com.sharkparty.monopolybingo48,com.cartamundidigital.shufflemonopolyjunior,com.starfish.blue.boardgamebuddy.ads,monopoly.business.empire,com.neathippo.crazypolyfree,

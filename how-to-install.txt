@@ -1,0 +1,15 @@
+###############################################################################################
+#                                                                                             #
+#                    HOW TO INSTALL SMARTPLAY APK DOWNLOADER WEBSITE                          #
+#                                                                                             #
+###############################################################################################
+#                                                                                             #
+# 1. extract zip in your root dir                                                             #
+# 2. create database                                                                          #
+# 3. access the website in your web browser and you will see the installation wizard page     #
+# 4. insert database information and klik next                                                #
+# 5. insert license information who can see in license.txt, wait a few second and klik next   #
+# 6. insert admin login information and click next                                            #
+# 7. done                                                                                     #
+#                                                                                             #
+###############################################################################################

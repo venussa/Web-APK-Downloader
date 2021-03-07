@@ -1,0 +1,1 @@
+com.jingdong.th.app,com.lazada.android,com.shopee.id,com.bukalapak.android,com.jingdong.app.mall,blibli.mobile.commerce,jd.cbt.android.market.russia,com.andromo.dev733677.app828228,com.zalora.android,com.hrlite,com.jd.jdsports,com.jdscanner.jdscanner,id.jexpress.jxtrackingITMS,

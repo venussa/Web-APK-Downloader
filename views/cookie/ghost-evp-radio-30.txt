@@ -1,0 +1,1 @@
+appinventor.ai_payas1965.PAIRSSpiritBox,com.snowpackstudios.paranormalghostdetector,com.mac.lloyd.ghostobserver2,com.dexterltd.entitysensor_lite,com.SpottedGhosts.SpiritBoxSG4,appinventor.ai_azagorath.MassBox1,com.e.ghost_tv,org.retropixel.GhostRadarDetector,com.SpottedGhosts.StreamingSpiritBox,com.weaseldev.ghostcamera,

@@ -1,0 +1,1 @@
+com.br.ginfo.i9,com.adm.plantapplicationsmobile,com.maz.planner,com.manodio.blueocean.google.global,com.ltmobile,com.Starsmedia.LogisticsExpert,com.cevalogistics.CEVAgo,in.softecks.supplychainmanagement,com.glp.calculadora,com.amazon.sellermobile.android,com.ionicframework.log7702992,totalcross.appwlcm,com.thelogistica.app.pilot,com.gurtam.local_logistics,br.com.kmm.ritmo_gestao,

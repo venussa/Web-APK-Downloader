@@ -1,0 +1,1 @@
+com.music.library.manager.musicaf,tk2013.mp3_tag_convert,de.mobile,com.devlabbd.audioeditor,net.eclipseforum.music.android.tag.editor,in.who.taged,ocd.perfect.albumartchanger.free,com.k20.mp3studio.cutter.merger,org.sais.globaltagfixer,us.music.musictagger,com.aw.musictagger,id.music.tag,com.gtcsoft.musictagger,com.xninjas.musicdoctor,gian.foul.supermp3tag,

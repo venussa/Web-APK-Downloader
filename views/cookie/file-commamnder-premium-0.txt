@@ -1,0 +1,1 @@
+com.mobisystems.fileman,com.Absolute.esafilemanager,com.alc.filemanager,fm.clean,com.lonelycatgames.Xplore,com.ghisler.android.TotalCommander,com.alphainventor.filemanager,com.cgollner.flashify,com.mobisystems.office,cz.raven4.MKCommander_HD,com.estrongs.android.pop,com.asus.filemanager,com.lite.filemanager,com.metago.astro,com.cxinventor.file.explorer,

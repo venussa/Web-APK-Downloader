@@ -1,0 +1,1 @@
+com.ubj.cell,me.lyft.android,com.ubercab.eats,com.jrmstudios.blackbutlerthegame,com.ubj.zwfzgp,com.ncm.nooviear,com.coco2games.ng,com.waze,com.farepilot,ee.mtakso.client,com.groundlink,com.thunderstick.CarCompanion,com.radioonline.panranoiaradiofree,com.acmeaom.android.myradar,

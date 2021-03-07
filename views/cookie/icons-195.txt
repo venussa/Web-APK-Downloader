@@ -1,0 +1,1 @@
+com.asus.launcher,com.ksmobile.launcher,com.thecatgend27.MiniOsFree,com.hello8112.amazingphotoborder,com.storeos.ilauncher.iphonex.applelauncher,com.ronald.shiny.teal.black.iconpack,com.campmobile.launcher,com.coastalimages.jaron_color,com.panagola.app.shortcut,com.netqin.ps,com.mobint.hololauncher,com.phoneX.launcher.iOS11launcher,com.themelab.launcher.pinkdiamonds,

@@ -1,0 +1,1 @@
+com.musicstreaming.freemusic,com.sonyericsson.music,com.spotify.music,com.fotoable.musicplayer,com.jiubang.go.music,com.fotoable.mp3.musicplayer,com.soundcloud.android,com.fotoable.free.music,com.google.android.apps.youtube.music,com.bagas.musik,com.apple.android.music,com.musics,com.jb.go.musicplayer.mp3player,com.opi.onkyo.dap_music,com.zentertain.music.player,

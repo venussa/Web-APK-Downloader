@@ -1,0 +1,1 @@
+com.shopee.id,com.shopee.ph,com.shopee.my,com.shopee.th,com.shopee.sg,com.shopee.tw,com.lazada.android,com.panduancara.jualandishopee,com.dayshopee.app,com.wShopeeAdda_6198773,com.bikinaplikasi.radja123,com.appswiz.gsshopeeihiif,com.workholics.agroshopee,com.app.rmshopee,com.conduit.app_733962f251404e69b939b86a4e549955.app,

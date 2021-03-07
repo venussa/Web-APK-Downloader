@@ -1,0 +1,1 @@
+com.tencent.mm,com.tencent.wework,com.gulbalasalamov.wechatdemo,com.facetoface.guideforwechatvideocallandmessenger2018,com.stone.wechatcleaner,com.cleanerforwechat,com.yuansfer.salemaster,info.newmessengerforfreeadvice.advicemessengerforwechatfree,com.tencent.pb,com.like.sticker,org.justmine.hh_wechat_tools,inter.wechatclear.com,com.eg.android.AlipayGphone,com.truecheckr,

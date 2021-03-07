@@ -1,0 +1,1 @@
+com.music.star.startag,com.fillobotto.mp3tagger,com.freedomlabs.tagger.music.tag.editor,com.fk2.tageditor,mobi.infolife.itag,in.denim.tagmusic,au.com.pickup.pmm,com.jmaciak.mp3tagedit,tk2013.mp3_tag_convert,com.ftpcafe.tagger.trial,us.music.musictagger,in.who.taged,net.eclipseforum.music.android.tag.editor,com.lemoncubic.tapeplayer.lite,org.sais.globaltagfixer,

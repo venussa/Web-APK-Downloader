@@ -1,0 +1,1 @@
+com.fiberthemax.OpQ2keyboard.dict.ko,com.fiberthemax.OpQ2keyboard.dict.uk,com.google.android.youtube,com.android.chrome,com.motorola.ccc.ota,com.motorola.fmplayer,com.motorola.actions,com.facebook.orca,com.snapchat.android,com.google.android.gm,com.netflix.mediaclient,com.motorola.genie,

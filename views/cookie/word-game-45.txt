@@ -1,0 +1,1 @@
+com.matchasaucellc.word.hound.android,com.freeword.scramble.swipe,com.histudiogames.games.wordspace,com.wapfrog.hangman,

@@ -1,0 +1,1 @@
+com.yandex.browser,ru.yandex.searchplugin,ru.yandex.mail,ru.yandex.translate,com.yandex.browser.alpha,ru.yandex.yandexnavi,com.yandex.browser.lite,com.yandex.browser.beta,ru.yandex.disk,ru.yandex.music,com.yandex.launcher,ru.yandex.yandexmaps,ru.yandex.metro,ru.yandex.androidkeyboard,com.yandex.mobile.drive,

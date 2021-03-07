@@ -1,0 +1,1 @@
+com.sapandabaptechnologies.sap,com.deskera.erp,io.frappe.mobile,mobyiuiu.android,com.magzter.enterpriseresourceplanninginsights,com.stel.order,com.hansaworld.aos.stderp.uk.v80,com.plexonline.MobileLogin,com.openpro.altius,com.dhru.dhruerp,com.marg.newmargorder,com.e1c.erpmonitor,com.ecount.erp.center,br.com.unoerp.unomobile,

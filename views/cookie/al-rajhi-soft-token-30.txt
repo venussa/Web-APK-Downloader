@@ -1,0 +1,1 @@
+barcode.scanner.qrcode.reader.flashlight,com.gamma.scan,com.barcode.qrcode.scanner.reader,com.transferwise.android,map.livestreetview,air.com.cleanbrain.Inspector.A1655,com.mastercard.mastercardforyou,

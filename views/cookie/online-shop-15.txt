@@ -1,0 +1,1 @@
+com.globalegrow.app.gearbest,com.mirraw.android,com.wadi.android,com.bukalapak.android,com.inditex.zara,com.flipkart.android,com.namshi.android,com.lightinthebox.android,com.snapdeal.main,com.rosegal,club.fromfactory,io.silvrr.installment,com.thredup.android,

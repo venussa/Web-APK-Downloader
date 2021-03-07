@@ -1,0 +1,1 @@
+com.marcoscg.localhtmlviewer,com.ADdevelopers.notepad,com.tutorial.personal.androidstudiopro,com.gazlaws.codeboard,web.dassem.websiteanalyzer,com.note.pad,xyz.iridiumion.enlightened,com.ourcodeworld.ourcodeeditorfree,com.termux,io.spck,com.appmaheshsaka.w3schoolhtml,com.duy.compiler.javanide,com.back_banchers.html,com.blogspot.logpedia.note2,com.rbowman.scriptit,

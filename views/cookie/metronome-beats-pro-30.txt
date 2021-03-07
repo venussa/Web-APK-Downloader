@@ -1,0 +1,1 @@
+com.frozenape.tempolite,app.pg.stagemetronome,the.crazy.metrodrum,com.ionaworks.metronome,pl.netigen.drumloops.rock,net.scarlettsystems.app.scarlettmusician,com.androcalc.metronome,com.jsplash.metronome,pl.netigen.drumloopsforguitar,com.learntomaster.dlmf,pl.netigen.drumloops.drumnbase,vs.studiometronome.free,com.psslabs.rhythm,me.grapescan.metronome,ch.s1ze.beatsmax,

@@ -1,0 +1,1 @@
+com.facebook.katana,com.facebook.orca,com.facebook.lite,com.facebook.mlite,com.facebook.pages.app,com.facebook.Socal,com.facebook.adsmanager,com.facebook.talk,com.nbapstudio.facebooklite,com.facebook.analytics,io.friendly,hoahong.facebook.messenger,hfast.facebook.lite,com.facebook.workchat,

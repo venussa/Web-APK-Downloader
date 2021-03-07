@@ -1,0 +1,1 @@
+com.Islamiccalandar.hijri.free,com.islamicapp.calandar.hijri,com.sharpsol.digitalvalley.hijriCalendar,com.freewallpaper.AsmaulHusnaWallpapers,com.burjlabs.islamic.hijri.calendar,com.thorappsandroid.mawlidal_nabi,com.pustakasyabab.kuncimenghafal,itkany.cam.cam.medh,com.rabiulawal.miladunnabi.profile.pic.dp,com.holarafuse.miladunnabigreetingcards,

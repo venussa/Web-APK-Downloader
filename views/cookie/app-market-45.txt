@@ -1,0 +1,1 @@
+com.backflipstudios.android.ninjumpdeluxe,com.supercell.clashofclans,com.target.ui,com.keramidas.TitaniumBackup,com.flashgl,com.vzw.hss.myverizon,at.nk.tools.iTranslate,com.luckydeveloper.apkshare,com.katecca.screenofflock,com.winzip.android,com.newstargames.newstarsoccer,de.mcoins.applike,com.snapchat.android,com.google.android.launcher,com.shere.easytouch,

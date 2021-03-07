@@ -1,0 +1,1 @@
+com.supercell.clashofclans,com.supercell.clashroyale,com.santrideveloper.newbasecocdesigner,com.moonstudio.mapcoc,com.tools.bestgamecalc,com.baseeditorclashofclans,pistol.apps.newbasemapsforcoc2017,com.hcsoft.hack.clashofclans.geme,com.igg.clashoflords2,com.gems.calculator.coc.game,com.phuongpn.mapsofcoc2017,com.xiaohui.cocmaps,com.fugugo.clashofclans.strategybases,

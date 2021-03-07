@@ -1,0 +1,1 @@
+com.gameloft.android.ANMP.GloftA8HM,com.gameloft.android.ANMP.GloftMOHM,com.gameloft.android.ANMP.GloftSEHM,com.regexsoft.asphaltracinghd,adnyey.notitia.a8,com.highway.asphaltracing,com.ea.games.r3_na,com.bunbogames.racingxtreme,com.ea.game.nfs14_row,com.icloudzone.AsphaltMoto,com.fanxun.asphaltstreet,com.guife.asfaltomig,com.fazogames.haracing,com.asphalt.reborn.racing.game,

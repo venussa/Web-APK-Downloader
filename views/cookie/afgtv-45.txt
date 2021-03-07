@@ -1,0 +1,1 @@
+com.farsi.tafseer,com.disney.datg.videoplatforms.android.watchdc,com.mtvn.vh1android,

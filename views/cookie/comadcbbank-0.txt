@@ -1,0 +1,1 @@
+com.facebook.orca,com.facebook.katana,com.google.android.youtube,com.instagram.android,com.android.chrome,com.snapchat.android,com.adobe.reader,org.mozilla.firefox,com.microsoft.office.word,com.google.android.dialer,

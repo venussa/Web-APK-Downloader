@@ -1,0 +1,1 @@
+com.landdragoon.sacompanion,com.ea.game.maddenmobile15_row,org.hola,com.ea.game.pegglex_row,app.fortunebox,com.hulu.plus,nl.candosoft.dronecontrolcentre.free,com.google.android.apps.youtube.unplugged,com.valvesoftware.steamlink,com.bethsoft.falloutcompanionapp,com.chromecast.allconnect.casttv,com.austinh.battlebuddy,com.microsoft.wordament,net.wargaming.wot.blitz,com.TWCableTV,

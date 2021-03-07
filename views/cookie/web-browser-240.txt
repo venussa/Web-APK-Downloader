@@ -1,0 +1,1 @@
+com.midastouch.webtouchbrowser,com.FFBrowser.indiappstudio,tritiumcode.browser,tk.klurige.fullscreenbrowser,com.arsalanengr.incognito.browser.plus.beta,com.startpage.mobile,com.OlyFox.webbrowser,com.bkon.bluefaro,acr.browser.butterfly,

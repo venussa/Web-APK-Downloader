@@ -1,0 +1,1 @@
+net.aljazeera.arabic,com.france24.androidapp,net.aljazeera.english,

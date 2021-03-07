@@ -1,0 +1,1 @@
+org.torproject.android,com.samsung.knox.securefolder,com.hiddenvariable.bagit.lite,com.yahoo.mobile.client.android.mail,com.ikea.kompis,com.google.android.play.games,com.supercell.hayday,de.twokit.video.tv.cast.browser.lg,com.jumobile.manager.systemapp,com.radio.fmradio,com.linkedin.android,com.samsung.oh,com.starbucks.mobilecard,com.amazon.kindle,

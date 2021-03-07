@@ -1,0 +1,1 @@
+au.com.pickup.pmm,mx.dev.franco.automusictagfixer,net.xnano.android.photoexifeditor,com.gluege.audiocleanup,com.beka.tools.musicalbumeditor,com.citc.aag,com.ghteam.mp3tageditor,com.zortam.mp3tageditor,com.foobar2000.foobar2000,tw.sais.meridian.tagger,ali_haider.quizzstar,tk2013.mp3_tag_convert,com.malcolmsoft.edym,com.ES.truck,com.ventismedia.android.mediamonkey,

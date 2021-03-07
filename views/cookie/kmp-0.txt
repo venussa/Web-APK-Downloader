@@ -1,0 +1,1 @@
+com.kmplayer,tv.pandora.kmpvr,com.fsm.soundfontpiano,org.videolan.vlc,com.mxtech.videoplayer.ad,uplayer.video.player,com.zgz.supervideo,com.videoplayer.player.media,com.aimp.player,tuple.me.vlcremote,media.music.musicplayer.mp3player,adarshurs.android.vlcmobileremote,com.elift.hdplayer,tv.fipe.fplayer,com.bsplayer.bspandroid.free,

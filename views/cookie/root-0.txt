@@ -1,0 +1,1 @@
+com.OZEKENTERTAINMENT.Root,com.joeykrim.rootcheck,org.freeandroidtools.root_checker,com.superthomaslab.rootessentials,com.ram.memory.booster.cpu.saver,com.rootandroid.root,com.bitcubate.android.su.installer,com.jrummy.root.browserfree,de.mkrtchyan.recoverytools,com.simonedev.wifipassword,com.grarak.kerneladiutor,com.bitcubate.root.busybox.complete,com.cgollner.flashify,

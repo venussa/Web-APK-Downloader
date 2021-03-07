@@ -1,0 +1,1 @@
+com.schedule.telmate.telmatescheduleandroid,com.telmate.TelmateGettingout,com.mwp.vendengineapp,edu.ua.caps.tcsopublic,sp0n.citizen,com.inome.android,com.jailbase.mobile_app,com.relativityinc.inmateroster,gov.tn.portal.mofo,com.ctc.mobile,com.securus.videoclient,com.advtechgrp.android.corrlinks,us.pacourts.docket,

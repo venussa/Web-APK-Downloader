@@ -1,0 +1,1 @@
+com.aniplex.fategrandorder.en,com.fate.zillusion.fgohelper,com.wikia.singlewikia.fategrandorder,com.sojexy.fategoapcounter,jp.co.fgo.appmedia,world.arshad.grandordercompanion,jp.pxv.android,cn.jiguang.gp,net.galstars.shimakazego,pt.ricardoribeiro.aptimerwidgetforfgo,com.njh.biubiu,com.wideapp3.fgomatome,com.ltp.pro.fakelocation,

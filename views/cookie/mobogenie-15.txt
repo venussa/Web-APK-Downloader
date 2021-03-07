@@ -1,0 +1,1 @@
+com.google.android.play.games,com.netflix.mediaclient,com.uc.browser.en,com.appspot.swisscodemonkeys.apps,bestSoftRocket.freeMp3Downloads,com.ansangha.drdriving,com.mxtech.videoplayer.ad,com.estrongs.android.pop,com.opera.mini.native,com.wDownloader_4192642,com.instagram.android,com.surpax.ledflashlight.panel,com.atozappstore,hr.podlanica,

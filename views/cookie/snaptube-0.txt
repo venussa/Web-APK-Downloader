@@ -1,0 +1,1 @@
+com.knoozapps.thumbnaildownloader,com.snaptube.premium,com.tata.mata,video.downloader.videodownloader,com.djit.apps.stream,com.lenovo.anyshare.gps,com.dywx.larkplayer,com.jamendoandoutly.mainpakage,com.studiosol.palcomp3,

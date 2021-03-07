@@ -1,0 +1,1 @@
+com.dana.userapplication,id.danabonus.android,com.dutu.duniatunai,dev.company.android.darawan.danamath,com.mobimanage.danapoint,net.AVDevelopment.citatdana,com.atinc.staging.full,

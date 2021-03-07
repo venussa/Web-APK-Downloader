@@ -1,0 +1,1 @@
+com.galasports.football,com.AIGames.DSFM2,cn.capstones.football.uk,com.sportsdirector.footballdirectorlite,com.fmsc.footballmanagerstarcoach,com.gamegou.football,com.soccermanagerltd.worlds,com.sega.sakatsukurtw.world,com.fromthebenchgames.fmpsg2015,com.fromthebenchgames.fmbvb2015,com.ea.game.maddenmobile15_row,de.ludetis.android.kickitout,com.tdp.totalfootballmanager,

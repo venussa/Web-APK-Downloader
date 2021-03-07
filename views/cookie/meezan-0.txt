@@ -1,0 +1,1 @@
+com.inno.mstech.meezan,com.vat.vataccounting.almeezan,com.inno.mstech.meezanurdu2018,com.meezanco.app,com.javedahmadghamidi.ghamidi,com.QuranReading.islamiccalendar,com.app.urducalendar,com.global.foodpanda.android,com.muslim.urducalender,com.app.islamiccalendar,com.myresult.ghamidi,

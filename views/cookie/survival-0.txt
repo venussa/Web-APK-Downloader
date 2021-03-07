@@ -1,0 +1,1 @@
+zombie.survival.craft.z,com.sandbaygames.survive,com.heliogames.westland,com.dbSoftware.sievolve,org.ligi.survivalmanual,com.birdydogstudio.oceanishome,com.vade.raft_survival,com.pgstudio.survival,jurassic.survival.craft.z,com.catsbit.survivalsimulator,com.pacific.wildlands,com.gm_shaber.dayr,com.snailgamesusa.survival,com.netease.chiji,

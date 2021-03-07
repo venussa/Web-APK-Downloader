@@ -1,0 +1,1 @@
+com.sparc.stream,com.facebook.mlite,com.cmcm.live,com.nbapstudio.facebooklite,com.karaoke.live,com.fiiser.easylive,com.vaultmicro.camerafi.liveice,com.pacificlive.teenstreaming,com.visicommedia.manycam,com.acer.live360,com.wizfeeds.live,com.facebook.pages.app,com.mobzapp.screenstream.trial,com.yz.screencap,

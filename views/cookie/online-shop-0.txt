@@ -1,0 +1,1 @@
+com.alibaba.aliexpresshd,com.amazon.mShop.android.shopping,com.jet.jet.app,com.lazada.android,com.shopee.id,com.ebay.mobile,com.zzkko,com.contextlogic.geek,blibli.mobile.commerce,com.target.ui,com.jollycorp.jollychic,com.shopee.ph,com.contextlogic.cute,com.shopclues,

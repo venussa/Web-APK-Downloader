@@ -1,0 +1,1 @@
+com.delphicoder.flud,com.a0soft.gphone.app2sd,com.buak.Link2SD,mega.privacy.android.app,

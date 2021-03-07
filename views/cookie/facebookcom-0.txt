@@ -1,0 +1,1 @@
+com.facebook.katana,com.facebook.lite,com.domobile.messenger,hoahong.facebook.messenger,com.sunshine.makilite,com.simejikeyboard,com.litefbwrapper.android,hfast.facebook.lite,org.buffer.android,com.hootsuite.droid.full,com.banuba.camera,net.bookjam.dramabible,

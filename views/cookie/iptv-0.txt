@@ -1,0 +1,1 @@
+ru.iptvremote.android.iptv,com.gsetech.smartiptv,com.ciphertv.player.release,com.nst.iptvsmarterstvbox,com.configurator.plugin,com.pecana.iptvextreme,com.freeiptv24x7.freetv,com.lazycatsoftware.iptv,thalles.org.playeriptv.com,com.niklabs.pp,com.best.english.iptv,org.evolutionapps.newIPTV,ru.iptvremote.android.iptv.core,com.vidanovaapps.iptvonline,org.novatech.masteriptv,

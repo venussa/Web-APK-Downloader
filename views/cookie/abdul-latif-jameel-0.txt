@@ -1,0 +1,1 @@
+en.redsea.redsea,com.alj.android,com.s4m.aljguestcare,com.appian.aljandroid,com.zeedsolutions.tconnect,com.borninteractive.camri,waffar.offers.saudi,com.expatriates.app,com.zeed.traxapp,com.islam.molana,com.aldawri.sa,com.elbotola,com.sa.lexus,

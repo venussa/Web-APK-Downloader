@@ -1,0 +1,1 @@
+com.tencent.mm,com.wWeChat_7717006,com.tencent.pb,jp.naver.line.android,com.felix.wecha,com.tencent.weread,com.WWChat,com.tencent.mobileqqi,com.Wechat.guidechat,com.tencent.wework,com.wVchatApp_6709047,info.newmessengerforfreeadvice.advicemessengerforwechatfree,com.sweeperforwechat.android,com.cleanerforwechat,

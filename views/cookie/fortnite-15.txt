@@ -1,0 +1,1 @@
+com.netease.chiji,com.miniclip.bowmasters,com.digidust.elokence.akinator.freemium,com.wb.goog.mkx,com.appblockgames.freecraftexploration,com.scee.psxandroid,com.robtopx.geometryjumplite,io.voodoo.holeio,com.nintendo.znca,com.snapchat.android,com.microsoft.xboxone.smartglass,com.yangcliu.zombsroyale,com.jb.screenrecorder.screen.record.video,

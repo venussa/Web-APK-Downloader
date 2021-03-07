@@ -1,0 +1,1 @@
+com.nibbledev.nacex,courier.tracking.all,br.com.tribotech.trackpack,com.packagetrackingfast,com.pae.transporteurgente,de.sawischa.sendungsverfolgung,com.prisma.manzanasusadas,

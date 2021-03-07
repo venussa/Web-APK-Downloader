@@ -1,0 +1,1 @@
+yahtzee.yatzy.dice.game,com.blogspot.mvsvnx.yatzyfree,com.uluru.yatzy,com.clockwatchers.yatzy,board.yahtzee.dice,yahtzee.dice.with.friends,com.miraclemill.yatzyonline,com.artoon.pokerdice,com.bestlis.yatzy,com.fancypotatostudio.yazy,air.com.lazyland.yatzy,io.snowballgames.yatzy,mk.grami.yatzy,fr.elol.yams,yatzy.yahtzee.dice.game,

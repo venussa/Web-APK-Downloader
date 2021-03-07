@@ -1,0 +1,1 @@
+ir.hawijapp.tvshow,com.ghelfer.tvipbrasil,com.google.android.apps.fiber,com.verizon.fios.tv,com.spb.tv.am,com.bongo.bioscope,tv.peel.app,usa.jersey.tvlistings,com.mtvn.vh1android,de.twokit.video.tv.cast.browser.samsung,com.matsepu,

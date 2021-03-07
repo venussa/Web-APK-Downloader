@@ -1,0 +1,1 @@
+com.snapchat.android,com.theonegames.idlerpg1,com.digidust.elokence.akinator.freemium,com.azarlive.android,com.outfit7.mytalkingtomfree,com.google.android.apps.youtube.music,com.bigduckgames.flow,com.hitcents.drawastickmanepic2free,com.idspe.tanks2,com.netflix.mediaclient,com.pixlr.express,com.talkatone.android,com.turborocketgames.dragonsim,com.boombitgames.BridgeLowpoly,

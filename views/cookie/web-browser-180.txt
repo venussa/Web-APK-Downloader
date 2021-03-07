@@ -1,0 +1,1 @@
+com.chrome.beta,qc.browser.light,com.astool.android.smooz_app.free,com.wFastloadingInternetBrowser,com.crowbar.beaverlite,com.tenta.android,com.arsalanengr.incognito.browser.plus,com.nomone.vrbrowser,com.spark.browser,com.betafish.adblocksbrowser,SavySoda.PrivateBrowsing,com.browser.dual,com.chimbori.hermitcrab,com.getfilefrom.browserdownloader,fast.secure.light.browser,

@@ -1,0 +1,1 @@
+com.instagram.android,com.rsp974.apkmanager,com.snapchat.android,com.facebook.orca,com.whatsapp,com.nianticlabs.pokemongo,com.spotify.music,com.facebook.katana,com.mentisco.freewificonnect,com.netflix.mediaclient,net.zedge.android,com.google.android.play.games,photography.blackgallery.android,com.android.chrome,

@@ -1,0 +1,1 @@
+com.jrummyapps.rootbrowser.classic,eu.chainfire.flash,me.twrp.twrpapp,com.jrummy.apps.boot.animations,artur.m3rv.myszka.speedupswap,com.oasisfeng.greenify,rs.pedjaapps.alogcatroot.app,com.chornerman.easydpichanger,com.jmz.soft.twrpmanager,com.joaomgcd.autotoolsroot,com.androidvip.hebf,rs.pedjaapps.kt,com.ryansteckler.nlpunbounce,root.rootchecker,burrows.apps.busybox,

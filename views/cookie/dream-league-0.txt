@@ -1,0 +1,1 @@
+com.firsttouchgames.dls3,com.pocketgamerstudio.dreamsoccerhero,com.app.dreamkitsoccerv2,com.firsttouchgames.story,com.ea.gp.fifamobile,com.ExtrudeGaming.FingerSoccer,com.obygame.dreamleaguefootballpixelart,

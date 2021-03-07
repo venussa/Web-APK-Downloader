@@ -1,0 +1,1 @@
+com.google.android.youtube,com.skype.raider,com.bitstrips.imoji,com.zhiliaoapp.musically,com.pinterest,com.sirma.mobile.bible.android,com.google.android.apps.plus,com.cleanmaster.mguard,com.crack.screen.prank.bfun,com.kiloo.subwaysurf,kik.android,com.twitter.android,com.enflick.android.TextNow,com.google.android.apps.googleassistant,

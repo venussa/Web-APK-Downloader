@@ -1,0 +1,1 @@
+com.othmanchahboune.midanaljazeera,com.fiftysoft.jt,bbc.mobile.news.ww,org.un.mobile.news,com.andromo.dev702818.app849552,com.codeofzero.shabbir.presstvnewsapp,ca.twilighttech.appmaker.android5b01e306412e1,com.cnnasbcle.barabice,com.wLiveArabicTV_6917869,air.AljazirahPlus,com.arabakhbarajel.myalzzel7,net.ajplus.android.pbb,com.geoDocuments.nationalVideos,

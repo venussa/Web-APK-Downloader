@@ -1,0 +1,1 @@
+com.newssurge.doha,qa.ooredoo.android,com.formulas.kss.QatarLatestJobs,com.vipera.ts.starter.Metrash2,com.tedmob.mybook,

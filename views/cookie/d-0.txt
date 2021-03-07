@@ -1,0 +1,1 @@
+net.zedge.android,com.mobilemotion.dubsmash,com.discord,com.snapchat.android,mobi.borken.android.moodscanner,com.glu.flcn_new,com.kiloo.subwaysurf,com.google.android.apps.tachyon,com.duapps.recorder,block.app.wars,com.soundcloud.android,es.socialpoint.DragonCity,com.zhiliaoapp.musically,

@@ -1,0 +1,1 @@
+pt.webprods.android.file.manager,com.technical_arch12.Web_browser_hub,vn.wada.browser,com.my.wot,com.procoit.kioskbrowser,arun.com.chromer,com.yandex.browser.alpha,com.urysoft.darknessreader,com.bdbot.maskbrowser,com.yandex.browser.lite,com.flyperinc.flyperlink,com.ww4GFastSpeedBrowser,com.castify,inno.video.downloader.videodownloader,com.app.free.private.browser.lite.fast,

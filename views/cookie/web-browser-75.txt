@@ -1,0 +1,1 @@
+org.waterfoxproject.waterfox,mobile.air,net.rocket.browser,com.wSapphire_5324248,lex.com.webbrowser,com.litebrowser.explorer,com.app.vvfullscreendesktopwebbrowserapp,iron.web.jalepano.browser,ml.quickemail.shurf,com.browser.tssomas,com.hawk.android.browser,mobi.browser.flashfox,com.appsverse.photon,info.guardianproject.orfox,com.opera.browser.beta,

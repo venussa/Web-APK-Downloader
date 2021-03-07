@@ -1,0 +1,1 @@
+com.google.android.apps.youtube.kids,com.nianticlabs.pokemongo,com.instagram.android,com.supercell.clashroyale,goko.gcs,com.azefsw.purchasedapps,com.miniclip.bowmasters,com.samsung.android.spay,com.weather.Weather,com.nexstreaming.app.kinemasterfree,com.pebble.backup,com.letsappbuilder,goko.ws2,com.xpous.myapps,

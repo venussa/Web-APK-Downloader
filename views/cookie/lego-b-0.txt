@@ -1,0 +1,1 @@
+com.lego.ninjago.rideninja,com.ocwocreation.brickcollector,com.wb.goog.legoswtfa,com.lego.superheroes.dccomicsmightymicros,com.kseno.craft.games,com.kseno.craft.castle,com.lego.starwars.microfighters,uk.co.otissoft.mybrickset,city.map.mag.mcpe,com.wb.lego.dimensions,com.lego.bricksmore,com.CostumeNinjaConstructionToys.LegoNinjago,com.freendie.newsforlegofans,com.kseno.craft.lego,

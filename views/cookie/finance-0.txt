@@ -1,0 +1,1 @@
+com.yahoo.mobile.client.android.finance,com.mint,com.fusionmedia.investing,com.eniseistudio.course.finance,

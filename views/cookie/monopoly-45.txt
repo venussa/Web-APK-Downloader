@@ -1,0 +1,1 @@
+com.aemobile.bingo,com.igeo.mynopoly,de.smuttlewerk.fleetbattle,com.game_developed.tower,com.sharkparty.bingo,com.ea.scrabblefree_na,air.com.eastsidegamestudio.PFGrassRoots,com.appon.mancala,air.com.ludia.tpirbingo,com.monopolyluckyslots.realfreecasinomachines.simulationgame,com.shocktech.guaguahappy_classic,com.netmarbletr.momatr,com.ea.gp.simsmobile,com.gsn.grandcasino,

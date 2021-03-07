@@ -1,0 +1,24 @@
+{
+    "disable_cat" : ["finance"],
+    
+    "Abu Dhabi Commercial Bank" : [
+        "com.adcb.bank",
+        "com.adcbapp.ProCashIpad",
+        "com.adcbapp.ProCashLite",
+        "app.id_adcbsecurities_95149acdecf047db9b60bfc7b84de372",
+        "com.adcbpropapp.ADCPprop",
+        "com.adcbapp.ADCBWatch",
+        "com.ADCBApp.ADCBOffers",
+        "com.ezmcom.softtoken.adcb",
+        "com.adcbmobile.pfm"
+        ],
+    
+    "T. Garanti Bankasi A.S." : [
+        "biz.mobinex.android.apps.cep_sifrematik",
+        "com.garanti.bonusapp",
+        "com.garanti.garantiIR",
+        "com.garanti.cepsubesi",
+        "com.igaranti",
+        "com.garanti.mobile.unlockturkey"
+    ]
+}

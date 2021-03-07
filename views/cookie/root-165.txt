@@ -1,0 +1,1 @@
+com.twoseventwodev.icgterm,com.roothosting.roothostingiptvbox,com.tetherfy,com.irishin.buttonsremapper,com.rucksack.checkrootstatus,com.smart.swkey,com.busybox.rootchecker,com.lineports.Root_Checker,dinostudio.android.wifipasword,com.paget96.oneclickbooster,exa.lnx.a,com.tananaev.logcat,com.smartapp.easyproxyforandroid,mobi.pruss.force2sd_lite,com.thinkyeah.apphider,

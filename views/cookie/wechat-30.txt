@@ -1,0 +1,1 @@
+com.shaker.shadow.sk,com.mzrsoft.wichat,com.tencent.weread,com.whatsapp,jp.naver.line.android,org.telegram.messenger,com.WWChat,com.ubergeek42.WeechatAndroid,com.bluedream.wepdf,com.wichatcommunication.newguidewichatfreecallandmessages2018,com.shoutout.messenger,com.snapchat.android,com.instanza.cocovoice,com.subzoron.yiiri,

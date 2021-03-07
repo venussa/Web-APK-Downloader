@@ -1,0 +1,1 @@
+com.sega.sprint,com.sonic.sonicdrivein,com.sega.sonicdash,com.sega.sonic2.runner,com.sega.sonicboomandroid,com.sega.sonic1px,com.sega.sonic4episode2,com.sega.soniccd.classic,com.sega.sonicjumpfever,kart.racing.jungle,com.Sonic.Adventure.JungleWorldRun,com.anisagames.sonicadvance,com.sonichedgehog.subwaysurf,com.sonicclassic.subway,com.droidvalleystudio.sonicjourney,

@@ -1,0 +1,1 @@
+com.box.android,com.quvideo.xiaoying,jp.ne.hardyinfinity.bluelightfilter.free,com.google.android.keep,com.google.android.apps.walletnfcrel,com.android.chrome,com.weather.Weather,powercam.activity,com.zinio.mobile.android.reader,com.ebay.mobile,com.lazada.android,com.bestbuy.android,

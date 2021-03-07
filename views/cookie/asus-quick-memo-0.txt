@@ -1,0 +1,1 @@
+com.asus.quickmemo,com.jsoh.drawmemo,com.asus.supernote,com.socialnmobile.dictapps.notepad.color.note,com.google.android.keep,com.asus.task,jp.co.doublecircle.memo.quick,org.whiteglow.keepmynotes,com.asus.asusincallui,com.microsoft.office.onenote,com.asus.launcher,com.notes.notepad,com.futuredial.asusdatatransfer,notes.notebook.memo.pad.color.notepad.locker,com.asus.splendid,

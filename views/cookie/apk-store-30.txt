@@ -1,0 +1,1 @@
+com.besome.sketch,com.domobile.applock,com.advancedprocessmanager,com.google.android.projection.gearhead,mobi.infolife.installer,com.google.samples.apps.cardboarddemo,com.weberdo.apps.serviceinfo,com.spotify.music,com.google.android.apps.translate,com.isoftwareupdate.topgames,mobi.infolife.uninstaller,com.lbe.parallel.intl,com.softonic,mobi.infolife.appbackup,com.twitter.android,

@@ -1,0 +1,1 @@
+com.androidrocker.voicechanger,com.ark.blackhole,com.starapps.ablotahstorepro,com.playgendary.tanks,com.supercell.clashofclans,com.zeptolab.cats.google,jp.co.translimit.castle,com.ludia.jurassicworld,com.asobimo.alchemiastory,com.kingsgroup.ww2,com.miniclip.plagueinc,jurassic.survival.craft.z,com.ninjakiwi.bloonstdbattles,com.glow.android.eve,com.gonoodle.gonoodle,

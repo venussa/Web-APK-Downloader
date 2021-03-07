@@ -1,0 +1,1 @@
+com.quizup.core,pt.wm.milhes,lemmingsatwork.quiz,com.timleg.quiz,foodquiz.guessthefood,com.taplane.triviaquizm,quess.song.music.pop.quiz,com.etermax.preguntados.lite,com.quizapps.newmillionaire,com.works.timeglass.logoquiz,com.xmonetize.quizzland,com.taplane.emojisquiz,com.lcmobileapp.thehardestquiz,pl.swiatquizu.disneyquiz.android,com.freepuzzlegames.logoguessing.quiz,

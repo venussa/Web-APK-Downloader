@@ -1,0 +1,1 @@
+zombie.survival.online.craft,com.bethsoft.falloutshelter,com.preus.PreusZombi,com.dsfishlabs.disurvivors,com.scopely.headshot,com.survgames.survivalislandr,com.tory.island,com.catsbit.survivalsimulator,com.gameloft.android.ANMP.GloftZSHM,zombies.zombie.craft.apocalypse.survival_games.crafting.pandemic.last_day.survive,com.flaregames.zgs,com.ubo.survival,zombie.survival.day,

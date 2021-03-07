@@ -1,0 +1,1 @@
+org.mozilla.firefox_beta,browser.browser,com.ghostery.android.ghostery,com.mercandalli.android.browser,com.hiwapps.browser,fast.download.privacy.internet.explorer.im,com.web.browser.android,com.duckduckgo.mobile.android,com.lechneralexander.privatebrowser,newweb.explorer.fastbrowser,fyi.start.web.browser,com.browser.yo.indian,com.sec.android.app.sbrowser.beta,com.yandex.browser,

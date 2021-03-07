@@ -1,0 +1,1 @@
+com.pakdata.easyurdu,com.careem.acma,com.maajsol.abdul.route,com.zinghr.app,com.ImaginaryTech.English_Urdu_Dictionary,com.telenor.ads,com.nautilus.RealCricket3D,com.aryservices.arynews.en,com.futureappz.passiveincome,com.harman.ble.jbllink,

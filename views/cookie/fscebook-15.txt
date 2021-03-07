@@ -1,0 +1,1 @@
+com.lambda.fb_video,messenger.chat.social.messenger,com.jesture.phoenix,com.happening.studios.swipeforfacebookfree,com.ludashi.dualspace,com.cloudmosa.puffinFB,com.instagram.android,messenger.social.chat.apps,com.lite.fac.mini.lite,com.tapcrowd.fbsingapore2017,com.studio1467.videodownloader.fast,

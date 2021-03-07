@@ -1,0 +1,1 @@
+com.google.chromeremotedesktop,com.alc.filemanager,com.gameloft.android.ANMP.GloftDMHM,com.highsecure.photoframe,com.google.android.youtube,com.paypal.android.p2pmobile,com.sec.android.app.kidshome,com.facebook.katana,com.pixlr.express,com.walmart.android,com.netqin.ps,com.weberdo.apps.serviceinfo,com.amazon.dee.app,

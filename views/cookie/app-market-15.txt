@@ -1,0 +1,1 @@
+mobi.infolife.installer,com.trinitigame.callofminiandroid,com.zeroneapps.uygulamapaylas,com.microsoft.xboxone.smartglass,com.TWCableTV,mobi.infolife.uninstaller,mobi.usage.appbackup,com.droid.app.lock.secure,com.flyclops.domino.android,com.newpower.apkmanager,com.symantec.mobilesecurity,com.scee.psxandroid,com.rhythm.hexise.inst,com.teamlava.farmstory,com.symantec.applock,

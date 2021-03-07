@@ -1,0 +1,5 @@
+com.tencent.ig,
+com.supercell.clashofclans,
+com.netmarble.lin2ws,
+com.mobile.legends,
+com.supercell.clashroyale

@@ -1,0 +1,1 @@
+com.grindrapp.android,com.appspot.scruffapp,com.hornet.android,mobi.jackd.android,com.initechapps.growlr,com.boyahoy.android,com.lavendrapp.lavendr,com.blued.international,com.gaybar,com.dhservices.daddyhunt,com.ptp.guyspy,com.adam4adam.radar2.ui,com.planetromeo.android.app,com.jaumo.gay,net.gay.matchup,

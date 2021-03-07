@@ -1,0 +1,1 @@
+com.simplemobiletools.notes,com.samsung.android.app.notes,com.asus.gallery,com.trantrigroup.note,notebook.notepad.color.note.todo.list.memo.post.it,com.asus.userprivatestorage,com.asus.flipcover2,com.eco.note,com.asus.deskclock,com.splendapps.adler,com.atomczak.notepat,com.zoho.notebook,com.asus.soundrecorder,com.asus.ime,com.studio.tools.one.a.notes,

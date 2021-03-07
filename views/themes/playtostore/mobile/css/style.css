@@ -1,0 +1,122 @@
+body{
+	background: #f7f7f7;
+}
+.header-background{
+	background: #0ba9c3;
+	padding: 10px;
+}
+.panel-header{
+	border-radius: 3px;
+	border:transparent;
+	box-shadow: 0px 2px 3px rgba(0,0,0,.13) ,1px 2px 2px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+	padding: 0px;
+}
+li{
+	list-style-type: none;
+}
+.catag{
+	padding: 5px;background: #fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);border-radius: 5px;color:#666;font-size: 12px
+}
+.catag-active{
+	padding: 5px;background: #0ba9c3;color:#fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);border-radius: 5px;font-size: 12px
+}
+#menu-top td{
+	padding: 2px;
+	padding-left:10px;
+}
+#menu-top td h4{
+	text-align: left;
+}
+.header-background-bottom{
+	background: #fff;
+	box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+.header-background-bottom td{
+	padding: 20px;
+	text-align: center;
+}
+.menu-radian{
+	margin-top: -10px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radian-share{
+	margin-top: -10px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radians{
+	margin-top: 65px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radians1{
+	margin-top: 65px;;display:none;width:100%;height:2000px;position:fixed;background:url(../img/bg.png);background-size:cover;
+}
+.content-radian{
+	margin-top: -10px;position: fixed;width: 60%;background: #fff;padding: 0px;height: 2000px;
+}
+.game-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/game_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.app-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/app_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.other-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/cat_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.artikel-list{
+	background: #fff;
+	margin-top: 10px;
+	padding: 10px;
+	padding-left: 0px;
+	box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+
+.icon-set{
+	width: 25px;height: 25px;margin-top:-2px;position: absolute;
+}
+
+.cont-list{
+	margin-left: -25px;width: 100%;
+}
+.cont-list-mem{
+	width: 80px;list-style-type: none;float: left;margin-right: 15px;padding-bottom: 20px;
+}
+.text-head{
+	color:#434343;font-size: 16px;margin-left: 15px;margin-top:0px;margin-bottom: 5px;
+}
+.text-head-desc{
+	margin-left: 15px;margin-bottom: 20px;font-size:12px;
+}
+.view-more{
+	color: #0ba9c3;float: right;margin-top: -50px;margin-right: 5px;
+}
+.limit-box{
+	height: 30px;margin-top: -10px;
+}
+.box-title{
+	font-size: 12px;
+}
+.icon-img{
+	border-radius: 5px;
+	
+}
+.ellipsis{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.href-wrap{
+	color:#434343;
+}
+.start-block{
+	width: 15px;
+	height: 15px;
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/star.svg");
+	background-repeat:no-repeat;
+	background-size:contain;
+}

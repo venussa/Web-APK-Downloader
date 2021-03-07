@@ -1,0 +1,1 @@
+com.music.star.startag,com.fillobotto.mp3tagger,com.jmaciak.mp3tagedit,com.ghteam.mp3tageditor,com.ftpcafe.tagger.trial,com.freedomlabs.tagger.music.tag.editor,com.yschi.ID3Fixer,com.junta.mpthree.tag.editor,mobi.infolife.itag,com.zortam.mp3tageditor,com.fk2.tageditor,in.denim.tagmusic,com.philipphutterer.extendedmp3tag,au.com.pickup.pmm,io.github.manishsgaikwad.musicid,

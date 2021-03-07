@@ -1,0 +1,1 @@
+com.gm_shaber.dayr,com.jky.dayrtrade,zombie.survival.craft.z,com.moduleart.tesurvival,driv3r.alumgame,com.bistudio.minidayz,com.wangame.survival.junkmen,com.herogame.gplay.theoutlived,com.channel4.eden,com.heliogames.westland,com.sandbaygames.survive,com.beachinteractive.omo,com.locojoytj.infectedzone,com.pacific.wildlands,com.bluebottlegames.neoscavengermobile,

@@ -1,0 +1,1 @@
+com.squareup,gbis.gbandroid,com.getepic.Epic,com.joistapp.android.joist,com.prodigygame.prodigy,air.com.gameaccount.sanmanuel.slots,com.vivint.vivintsky,com.adt.pulse,com.mvl.SobobaCasino,com.immediasemi.android.blink,com.bigroad.ttb.android,com.keeptruckin.android,com.pepper.momentum,

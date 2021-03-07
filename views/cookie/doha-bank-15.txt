@@ -1,0 +1,1 @@
+org.ksmobileapps.QatarPrayer,qa.vodafone.myvodafone,com.mobile.android.qticketsapp,com.mastercard.mastercardforyou,com.cardsapp.android,com.knowledgeview.android.mobile.alwatan,

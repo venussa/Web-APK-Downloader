@@ -1,0 +1,1 @@
+com.ea.game.pvzfree_row,air.MonopolyDeal,com.eastsidegames.trailerparkboys,air.com.history.pawnstarsgame,com.ea.game.pegglex_row,com.joycity.god,com.teamlava.restaurantstorytwo,com.LighthouseGamesStudio.GreedCityUnity,pl.lukok.draughts,com.jmm.ipassion,com.landlordgame.tycoon,com.thekingames.twodice,com.playtika.wsop.gp,com.ballytechnologies.f88,

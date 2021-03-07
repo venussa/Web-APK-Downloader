@@ -1,0 +1,1 @@
+easa.part66qp,dao.DaoSoftware.FlightComputerSim,com.foxone.ppla,com.smcreations.aerodynamics,ca.pilottraining.pilottrainingvideos,com.joedevapp.atachapters,com.kadarala.measuringinstruments,how.to.become.a.pilot.se,appinventor.ai_loumeylemans.Power_Plant_O_and_M,com.wiseui.atachaptersaviation,com.navigraph.charts,com.androiderapps.aviationjokes,com.nupuit.gekn,com.foxone.pplh,

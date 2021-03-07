@@ -1,0 +1,1 @@
+com.snapchat.android,com.soundcloud.android,com.spotify.music,com.lenovo.anyshare.gps,com.instagram.android,com.kiloo.subwaysurf,com.skype.raider,com.OppanaGames.OffroadPickupTruckSilverado,com.zulu.cl2,com.scottgames.fnaf2demo,at.ner.lepsWorld2,com.microsoft.xboxone.smartglass,

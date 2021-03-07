@@ -1,0 +1,1 @@
+org.videolan.vlc,com.hobbyistsoftware.android.vlcrstreamer_free,com.hobbyistsoftware.android.vlcremote_usfree,flashcast.com.flashcast,adarshurs.android.vlcmobileremote,tuple.me.vlcremote,net.codejugglers.android.vlchd,the.joevlc,com.ntl.optimus.mp3musicplayer,com.yPlayer,knk.music.VCLPlayer.shortcuts,music.player.vch.jimusicplayer,

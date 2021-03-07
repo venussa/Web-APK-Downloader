@@ -1,0 +1,1 @@
+com.oryon.browser,work.ionut.browser,net.nully.floating,com.flyperinc.flyperlink,bnrajc.floatingbrowser,jp.unimedia.browser,com.py.bubbletabbrowser,com.pavlok.floatbrowser,com.lwi.android.flapps,com.floating.web.browser,net.snatchdreams.airbrowze,com.myboyfriendisageek.airbrowser,com.decad3nce.hoverbrowser,siy.fbrowser,com.boatbrowser.free,

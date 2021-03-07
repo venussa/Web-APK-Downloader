@@ -1,0 +1,1 @@
+com.netmarble.lin2ws,com.nexon.hit.global,com.asobimo.avabel_gp_b3,com.nexonm.loh.usios,com.asobimo.toramonline,com.Oryugen.WorldOfPrandisBeta,com.dragonnestm.ggplay.koramgame.global,com.us.ragnarok,com.utplus.shadowblood.google,com.NJI.fellow.global,com.bladewings.poppace,com.gtarcade.lod,com.ftt.lostkaos,com.mobblo.flyfflegacy,

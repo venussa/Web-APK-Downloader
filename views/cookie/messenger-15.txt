@@ -1,0 +1,1 @@
+com.techroid.fakechat,messenger.pro.messenger,messenger.sms,messenger.lite.messenger.messenger,com.amazing.messangerlock,com.typi,org.thoughtcrime.securesms,hoahong.facebook.messenger,messenger.messenger.messanger.messenger,com.melonsapp.privacymessenger,com.domobile.messenger,org.telegram.messenger,ru.ok.messages,com.jb.gosms,

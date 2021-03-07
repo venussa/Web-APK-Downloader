@@ -1,0 +1,1 @@
+com.optimum.unity.mobile,com.nbadigital.gametimelite,com.gamma.scan,com.xfinity.cloudtvr,com.zhiliaoapp.musically,com.verizon.fios.tv,com.afghansonglyrics.afghansonglyrics,com.appybuilder.gawharafghan1060.lal,com.snei.vue.android,com.xfinity.digitalhome,com.gotv.crackle.handset,com.usatvradio,com.nunnasia,com.univision.univisionnow,com.app4joy.afghanistan_free,

@@ -1,0 +1,1 @@
+com.facebook.katana,com.facebook.orca,com.facebook.lite,com.facebook.mlite,com.facebook.creatorapp,com.facebook.pages.app,com.facebook.moments,com.facebook.adsmanager,com.facebook.Socal,com.facebook.talk,com.facebook.work,com.facebook.analytics,com.facebook.workchat,com.facebook.f8,

@@ -1,0 +1,1 @@
+com.accesswireless.myaccount.web,com.krogeriwireless.myaccount.web,com.kindersign,com.app_wirelessworld.layout,com.harris.ezschoolpay,org.spectrum_health.mySpectrum,com.access.adrenaline,com.kiloo.subwaysurf,air.HardTime,com.gameloft.android.ANMP.GloftDMHM,

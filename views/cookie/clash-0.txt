@@ -1,0 +1,1 @@
+com.supercell.clashroyale,com.supercell.clashofclans,com.igg.castleclash,com.bettergame.clashhero,com.hcg.cok.gp,com.playdemic.golf.android,com.igg.castleclash_fr,com.forulo.pkcheshy,com.igg.castleclash_de,com.EasyWays.DriftClash,com.hcg.ctw.gp,com.ketchapp.clashio,com.igg.clashoflords2,com.meogames.wcg.google,com.boxitsoft.battleofwizards,

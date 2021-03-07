@@ -1,0 +1,1 @@
+com.mkiisoft.popup,com.estmob.android.flipbrowser,jp.fkmsoft.tool.theminibrowser,com.edoapp.floatingyoutube,com.simon.clicklink,apps.syst.com.floated,com.batman.floatingapps,com.wilco375.recentsfloatingapps,de.kostenlose.musik.app,com.applay.overlay,it.nikodroid.offline,com.hecorat.azbrowser,com.dualscreenbrowser,com.kwah.privatebrowser,mark.via.gp,

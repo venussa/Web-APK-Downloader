@@ -1,0 +1,1 @@
+com.ankratec.pashto.afghanflagkeyboard,net.telewebion,com.natgeo.tv,live.free.tv_us,com.directv.navigator,com.britbox.us,com.gavis.afghanchannel,com.tvshamshad.tvshamshad,com.hulu.plus,com.cw.fullepisodes.android,com.HBO,com.TWCableTV,com.foxsports.videogo,com.perseverance.afghanstar,

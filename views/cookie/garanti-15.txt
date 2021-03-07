@@ -1,0 +1,1 @@
+com.keepwarranty,com.mynet.android.mynetapp,com.application_4u.qrcode.barcode,tr.gov.turkiye.edevlet.kapisi,com.vbsapps.secret.codes.samsung,com.bryancandi.knoxcheck,com.brommko.android.haftaninurunleri,jp.co.makita.makitamobiletools,codevator.com.bankomalar,com.pozitron.hepsiburada,com.pixofun.quizgame3,

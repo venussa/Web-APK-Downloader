@@ -1,0 +1,1 @@
+com.morni.alrajhi_takaful,com.yw.lkgps2,com.federal.rules,com.mastercard.mastercardforyou,be.dsoft.SPS,com.netflix.Speedtest,

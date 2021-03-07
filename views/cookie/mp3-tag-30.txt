@@ -1,0 +1,1 @@
+com.malcolmsoft.edym,id.web.michsan.eestag,com.mobilevalley.player.music.tag.editor,xeus.timbre,com.photoapp.musictag,com.hitrolab.audioeditor,tw.sais.meridian.tagger,com.yzf888.tageditor,com.keerby.mp3converter,depollsoft.tagmaster,org.mediainfo.android.app,com.kanedias.vanilla.audiotag,com.beka.tools.musicalbumeditor,roxanne.create.mpthreeaudiotageditor,com.maxmpz.audioplayer,

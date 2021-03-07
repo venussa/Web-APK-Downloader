@@ -1,0 +1,1 @@
+com.bethsoft.falloutshelter,com.stomstudio.xboxninja,com.ijji.gameflip,com.g2a.marketplace,com.microsoft.appmanager,warframe.market,io.cordova.GTAVCheatCodes.Cordova,com.casualgames.nu.PixelDriver,com.x3m.tx4,com.ubisoft.raymanadventures,com.mobile.ign,com.microsoft.beambroadcast,com.tekoia.sure.activities,com.solvaig.forcepair,

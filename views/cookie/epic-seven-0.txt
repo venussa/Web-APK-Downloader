@@ -1,0 +1,1 @@
+com.stove.epic7.google,com.netmarble.sknightsgb,com.gacogames.epiccon,com.feelingtouch.idl,com.pocapp.castlecats,com.perblue.portalquest,es.socialpoint.MonsterLegends,com.droidhang.ad,com.HirayaSpace.SevenYears,com.napoleongames.sevenmages,sg.gumi.bravefrontier,com.perblue.dragonsoul,jp.co.atm.vcon.ww,in.fanzy.game.scorecards.android,

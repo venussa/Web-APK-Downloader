@@ -1,0 +1,1 @@
+com.dhpcs.liquidity,com.splashingspray.rtmonopoly,com.IngZapata.juegos.monopolio,biz.ideus.rentomania,com.oppositelock.lotterylifegame,com.jellybtn.boardkings,donnaipe.europoly,com.sharkparty.cluebingo,com.dibitybopty.lee.monomoney,com.gameworld.businessGame,stolp.zwariowane_monopoly,com.iwin.dond,com.yang.uno,ru.mindsaver.Monopoly,

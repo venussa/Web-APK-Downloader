@@ -1,0 +1,1 @@
+com.pinssible.fancykey,com.apkinstaller.ApkInstaller,sk.styk.martin.apkanalyzer,com.apartments.mobile.android,com.gmail.heagoo.apkbuilder,org.meetingguide,com.themelisx.apkinfo,com.hotpads.mobile,

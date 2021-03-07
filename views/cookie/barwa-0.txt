@@ -1,0 +1,1 @@
+com.integral.maktaby.albarwa,com.euroland.mobiletools.qa_bres,com.tedmob.mybook,com.ascendik.eyeshield,com.doggoapps.luxlight,com.tsang.alan.lightmeter,com.vipera.ts.starter.Metrash2,com.karwatechnologies.karwataxi,pl.apelgrim.colormixer,jp.ne.hardyinfinity.bluelightfilter.free,com.climate.growers.android.release,com.mowasalat.karwabus,com.semsarqatar,

@@ -1,0 +1,1 @@
+com.imgsweb.safatvhd,com.miroslove.afghantv,com.afghantvshows.application.ajmalshahab,com.app.androidpersianlivetv,com.atn.livestream,com.totrix.glarab,com.afghantv.livetvapp,com.roku.remote,com.qarniapp.pashto.afghanflagkeyboard,com.tolo.news,com.totrix.glwiztv,com.google.android.apps.youtube.unplugged,com.erosapps.tvafghanistan,tv.pluto.android,

@@ -1,0 +1,1 @@
+com.arcai.netcut,com.dunbartechnology.habitap,com.jrummy.font.installer,com.kineticgamestudios.airtunes.android,burrows.apps.rootchecker,com.urmilshroff.rootchecker,name.dohkoos.rootuninstaller,com.bigos.androdumpper,com.clivin.rootchecker,de.owsianowski.rootcheck,khiloui.WPSbrfree,com.unfairware.rootdefense,com.force.stop,com.avaranasoftware.checkroot,org.frap129.spectrum,

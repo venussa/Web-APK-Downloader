@@ -1,0 +1,1 @@
+cn.xender,com.google.android.apps.enterprise.dmagent,com.dropbox.android,com.intsig.camscanner,com.careem.acma,com.google.android.videos,com.supercell.clashroyale,com.imo.android.imoimbeta,com.ubercab,com.google.android.apps.youtube.kids,com.google.android.gm,com.mcdonalds.app,mobi.infolife.appbackup,org.zloy.android.downloader,

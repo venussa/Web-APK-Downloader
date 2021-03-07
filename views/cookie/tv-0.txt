@@ -1,0 +1,1 @@
+com.tubitv,com.scurab.android.pctv,live.free.tv_us,com.metosphere.tvfree,tv.pluto.android,selva.tropicaltv,com.disney.datg.videoplatforms.android.watchdc,com.TWCableTV,com.google.android.apps.youtube.unplugged,com.sling,com.gotv.crackle.handset,com.disney.datg.videoplatforms.android.abc,com.roku.remote,com.xfinity.cloudtvr,com.directv.dvrscheduler,

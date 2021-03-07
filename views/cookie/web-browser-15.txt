@@ -1,0 +1,1 @@
+webexplorer.amazing.speed,com.microsoft.emmx,net.fast.web.browser,com.opera.browser,com.transsion.phoenix,com.fevdev.nakedbrowser,internet.webbrowser.explorer,web.browser.emu.explorer,com.cmcm.armorfly,com.android.chrome,com.ghostery.android.ghostery,acr.browser.barebones,com.proxybrowser.vpn.unblock.sites.browser,com.chrome.beta,

@@ -1,0 +1,1 @@
+com.google.android.contacts,nokia.Androidlite,com.dam.cc,com.idea.backup.smscontacts,com.gateways.bgi,com.sharpened.androidfileviewer,com.telenordigital.contacts,com.simpler.backup,net.ndex.bowlingnbf,com.doionline.sdcardmanager,com.techmania.allfileconverter,com.greatstuffapps.contactsrecovery,

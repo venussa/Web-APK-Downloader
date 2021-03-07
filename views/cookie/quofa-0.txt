@@ -1,0 +1,1 @@
+com.quora.android,com.pinterest,com.tumblr,com.reddit.frontpage,org.wikipedia,com.twitter.android,com.duolingo,wp.wattpad,com.ted.android,co.brainly,com.instagram.android,com.devhd.feedly,org.coursera.android,com.goodreads,com.dripgrind.mindly,

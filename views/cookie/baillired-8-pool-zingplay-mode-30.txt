@@ -1,0 +1,1 @@
+com.kritsana.pool,com.billiards.city.pool.nation.club,com.pool8ball.snooker2026,com.hi.poolball,com.phoenixgame.bilardo,com.mobgames.billiardball,com.mimesoft.billiard,pool.ballpool.Billiards,com.rollboxstudio.pool,com.pool8ball.snooker28888,ballpool.billiard.pool.game,ball.pool.billiard,eight_ball_pool.snooker,com.azmastersharkspool.com,com.dpoint.pool,

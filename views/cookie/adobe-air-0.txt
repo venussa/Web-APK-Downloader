@@ -1,0 +1,1 @@
+com.adobe.air,com.adobe.reader,air.AirDeMma4Android,air.com.eonflex.AdobeFeedsMobile,air.fireTheDJ,air.com.airFighter.Fight,air.A3DChartsMobile,air.com.til.boxtv.player,

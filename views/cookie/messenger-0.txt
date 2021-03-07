@@ -1,0 +1,1 @@
+com.facebook.orca,com.facebook.mlite,com.google.android.apps.messaging,com.facebook.talk,sk.forbis.messenger,com.aleskovacic.messenger,messenger.social.chat.apps,com.link.messages.sms,kik.android,com.verizon.messaging.vzmsgs,messenger.chat.social.messenger,com.calea.echo,com.inbox.boro.lite,com.nandbox.nandbox,

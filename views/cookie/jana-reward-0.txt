@@ -1,0 +1,1 @@
+com.google.android.apps.paidtasks,com.buffalowildwings.blazinrewards,com.interlinked.games.gear.smash,com.luckyday.app,com.buona.apprikotV1,com.ncrcinema.movietime.marcus,de.mcoins.applike,com.ipsos.i_say,com.nkproject.bingrewards2,com.jeremiahsice.app,

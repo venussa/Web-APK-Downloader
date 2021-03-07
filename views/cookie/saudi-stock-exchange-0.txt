@@ -1,0 +1,1 @@
+net.directfn.sfc.android,com.tridder,com.saudi.app.saudi_stock,com.itmobix.ksaendeals,

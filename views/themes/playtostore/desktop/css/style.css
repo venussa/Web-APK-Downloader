@@ -1,0 +1,219 @@
+body{
+	background: #f7f7f7;
+}
+.header-background{
+	background: #0ba9c3;
+	padding: 10px;
+	box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+.panel-header{
+	border-radius: 3px;
+	border:transparent;
+	box-shadow: 0px 2px 3px rgba(0,0,0,.13) ,1px 2px 2px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+	padding: 0px;
+}
+li{
+	list-style-type: none;
+}
+.catag{
+	padding: 5px;background: #fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);border-radius: 5px;color:#666;font-size: 12px
+}
+.catag-active{
+	padding: 5px;background: #0ba9c3;color:#fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);border-radius: 5px;font-size: 12px
+}
+#menu-top td{
+	padding: 2px;
+	padding-left:10px;
+}
+#menu-top td h4{
+	text-align: left;
+}
+.header-background-bottom{
+	background: #fff;
+	box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+.header-background-bottom td{
+	padding: 20px;
+	text-align: center;
+}
+.menu-radian{
+	z-index:1;
+	margin-top: -10px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radian-share{
+	z-index:3;
+	margin-top: -10px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radians{
+	z-index:1;
+	margin-top: 65px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.menu-radians1{
+	z-index:1;
+	margin-top: 65px;;display:none;width:100%;height:2000px;position:fixed;background: url(../img/bg.png);background-size:cover;
+}
+.content-radian-a{
+	z-index:1;
+	margin-top: -10px;position: fixed;background: #fff;padding: 0px;height: 2000px;
+	box-shadow: 0px 1px 2px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+.game-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/game_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.app-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/app_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.other-icon{
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/cat_30_30.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.artikel-list{
+	
+	margin-top: 10px;
+	padding: 10px;
+	padding-left: 0px;
+	
+}
+
+.icon-set{
+	width: 25px;height: 25px;margin-top:-2px;position: absolute;
+}
+
+.cont-list{
+	margin-left: -38px;width: 100%;
+}
+.cont-list-mem{
+	width: 15%;list-style-type: none;float: left;padding-bottom: 20px;
+}
+
+.text-head{
+	color:#434343;font-size: 25px;margin-left: 0px;margin-top:0px;margin-bottom: 5px;
+}
+.text-head-desc{
+	margin-left: 0px;margin-bottom: 20px;font-size:15px;
+}
+.view-more{
+	color: #fff;
+	background:#0ba9c3;
+	padding:10px;
+	float: right;
+	margin-top: -50px;
+	margin-right: 5px;
+	box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+}
+.limit-box{
+	height: 30px;margin-top: -10px;
+}
+.box-title{
+	font-size: 12px;
+}
+.icon-img{
+	border-radius: 5px;
+	
+}
+.ellipsis{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.href-wrap{
+	color:#434343;
+}
+.start-block{
+	width: 15px;
+	height: 15px;
+	display:inline-block;
+	background-image: url("/views/themes/playtostore/mobile/img/star.svg");
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.app-box{
+	background: #fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);padding: 10px
+}
+.right-cat-box{
+	padding: 0px;
+	margin-top: -50px
+}
+.right-m-nav{
+	
+	padding: 22px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color:#f7f7f7;
+	font-weight: 600;
+	-webkit-font-smoothing: antialiased;
+}
+.right-m-nav:hover{
+	background: #fff;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);
+	background: #0998b0;
+	padding: 22px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color:#f7f7f7;
+	font-weight:600;
+	-webkit-font-smoothing: antialiased;
+}
+.app-box:hover{
+	background: #f1f1f1;box-shadow: 0px 1px 4px rgba(0,0,0,.13) ,1px 1px 1px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05);padding: 10px
+}
+
+.menu-left:hover{
+	background:#f1f1f1;
+}
+
+.index-category{
+	padding:10px;
+	overflow:hidden;
+	
+
+	}
+
+.index-category li{
+	width:100%;
+	height:40px;
+	padding-top: 0px;
+	position:relative;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+	}
+
+.index-category li a{
+	color:#666;
+	font-size:12px
+	}
+
+.index-category li a:hover{
+	
+	}
+.m-cat:hover{background: #f5f5f5}
+.index-category li a img{
+	margin-right:5px;
+	height:30px
+	}
+
+.index-category li a i{
+	display:inline-block;
+	vertical-align:middle;
+	width:30px;height:30px;
+	background:url("/views/themes/playtostore/desktop/img/categorybg-30.png") no-repeat;
+	margin-right:5px}
+
+.index-category-b{
+	
+	}
+
+.index-category-b li{
+	border-bottom: 1px #f5f5f5 solid;
+	padding-top: 5px;
+	}
+
+
+.cicon .action{background-position:0 0}.cicon .adventure{background-position:0 -30px}.cicon .arcade{background-position:0 -60px}.cicon .board{background-position:0 -90px}.cicon .card{background-position:0 -120px}.cicon .casino{background-position:0 -150px}.cicon .casual{background-position:0 -180px}.cicon .educational{background-position:0 -210px}.cicon .family{background-position:0 -240px}.cicon .music{background-position:0 -270px}.cicon .puzzle{background-position:0 -300px}.cicon .racing{background-position:0 -330px}.cicon .role-playing{background-position:0 -360px}.cicon .simulation{background-position:0 -390px}.cicon .sports{background-position:0 -420px}.cicon .strategy{background-position:0 -450px}.cicon .trivia{background-position:0 -480px}.cicon .word{background-position:0 -510px}.cicon .book-reference{background-position:0 -540px}.cicon .business{background-position:0 -570px}.cicon .comic{background-position:0 -600px}.cicon .communication{background-position:0 -630px}.cicon .education{background-position:0 -660px}.cicon .entertainment{background-position:0 -690px}.cicon .finance{background-position:0 -720px}.cicon .health-fitness{background-position:0 -750px}.cicon .libraries-demo{background-position:0 -780px}.cicon .lifestyle{background-position:0 -810px}.cicon .live-wallpaper{background-position:0 -840px}.cicon .media-video{background-position:0 -870px}.cicon .medical{background-position:0 -900px}.cicon .music-audio{background-position:0 -930px}.cicon .news-magazines{background-position:0 -960px}.cicon .personalization{background-position:0 -990px}.cicon .photography{background-position:0 -1020px}.cicon .productivity{background-position:0 -1050px}.cicon .shopping{background-position:0 -1080px}.cicon .social{background-position:0 -1110px}.cicon .tools{background-position:0 -1170px}.cicon .transportation{background-position:0 -1200px}.cicon .travel-local{background-position:0 -1230px}.cicon .weather{background-position:0 -1260px}.cicon .widgets{background-position:0 -1290px}.ar_fix .index-category li a i{margin-right:0;margin-left:5px}

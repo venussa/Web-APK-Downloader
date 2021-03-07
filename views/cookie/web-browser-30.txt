@@ -1,0 +1,1 @@
+com.brave.browser,org.easyweb.browser,info.guardianproject.orfox,mark.via.gp,com.dolphin.browser.zero,com.ecosia.android,tools.browser.webbrowser,com.exsoul,quick.browser.secure,com.lechneralexander.privatebrowser,com.mx.browser,com.uc.browser.en,com.kaweapp.webexplorer,canhtechdevelopers.webbrowser,

@@ -1,0 +1,1 @@
+com.jumia.android,com.wanelo.android,com.shopping.limeroad,com.zalora.android,com.ChinaShoppingOnline,com.shopee.th,com.banggood.client,my.elevenstreet.app,com.etsy.android,com.thecarousell.Carousell,ru.chinaprices,in.azshoplife.onlineshoppinglowprice,com.shopee.my,com.myntra.android,com.daraz.android,

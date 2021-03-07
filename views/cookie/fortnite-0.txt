@@ -1,0 +1,1 @@
+com.epicgames.fortnite,com.epicgames.portal,com.tencent.ig,com.wikia.singlewikia.fortnite,com.remotemyapp.vortex,com.futureplay.battleground,com.netease.chiji,com.dts.freefireth,tv.twitch.android.app,com.wb.goog.mkx,com.digidust.elokence.akinator.freemium,com.roblox.client,com.miniclip.agar.io,

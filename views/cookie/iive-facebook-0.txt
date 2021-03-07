@@ -1,0 +1,1 @@
+com.facebook.katana,rustero.live.screen.stream.social,com.facebook.lite,com.vaultmicro.camerafi.live,com.bemytv.mycaster.free,com.mauroapps.transmitirenvivofacebook,com.vrnom.live.vj.video,air.com.come2play.backgammon,com.duapps.recorder,io.friendly,tv.upeek.omnideo,com.facebook.Origami,com.streamaxia.broadcastme,com.streamago.android,

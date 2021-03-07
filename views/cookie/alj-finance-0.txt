@@ -1,0 +1,1 @@
+com.mint,com.yahoo.mobile.client.android.finance,

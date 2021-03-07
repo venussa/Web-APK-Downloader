@@ -1,0 +1,1 @@
+fi.hbl.areader,com.HBLConsultores,com.HBLCoach,com.atharvana.hrms.HBL,com.dynamicg.settings,com.Mubashir.android.HBLBSU,

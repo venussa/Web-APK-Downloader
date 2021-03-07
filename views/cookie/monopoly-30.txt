@@ -1,0 +1,1 @@
+com.inge.nathan.monopolycalculator,com.matteljv.uno,com.ea.game.pogogames,com.hasbro.riskbigscreen,com.vjmobiletech.mbk3d,com.umi.feudlive,com.ea.tetrisblitz_na,com.kongregate.mobile.adventurecapitalist.google,com.arclab.arctopiamonopolypower,com.scopely.wheeloffortune,com.ea.game.simcitymobile_row,

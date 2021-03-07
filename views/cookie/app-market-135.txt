@@ -1,0 +1,1 @@
+ru.mail.mailapp,com.whatsapp,com.ksmobile.cb,com.sbwebcreations.weaponbuilder,com.tophatter,com.google.android.apps.books,com.sec.android.easyMover,com.prestigio.ereader,com.tmsoft.whitenoise.lite,mobi.mgeek.TunnyBrowser,me.lyft.android,jp.naver.line.android,com.fotoable.applock,com.snrtechinc.appbooster,

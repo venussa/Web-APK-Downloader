@@ -1,0 +1,1 @@
+com.LoopGames.Yatzy,com.sng.yatzy,com.fiogonia.yatzy,board.yatzy.dice,com.intentsoftware.android.yatzylite,com.scopely.yux,com.seavus.yatzyultimate.droid,net.playwithworld.yatzy.dice.android,net.androgames.yams,com.spigo.yatzy,yatzy.board.dice,com.rubicon.dev.yachty,com.rsuh.yatzyx,yachty.dice.yatzy,com.yatzyworld,
